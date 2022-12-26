@@ -4,4 +4,4 @@ My solutions to The C# Player's Guide by RB Whitaker.
 
 ### Plot twist!
 
-Solved in Python
+Solved in Python. Oooo.
