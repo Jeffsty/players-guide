@@ -10,4 +10,5 @@ Solved in Python. Oooo.
 
  Page No. | Challenge | XP | Done?
 |----|-----------|----|--|
-| 24 | Consolas and Telim | 50 | Y
+|24|Consolas and Telim|50|Y
+|28|The Thing Namer 2000|100|Y
