@@ -15,12 +15,12 @@ Page No. | Challenge | XP | Done?
 42|The Variable Shop|100|Y
 43|The Variable Shop Returns|50|N
 50|The Triangle Farmer|100|Y
-53|The Four Sisters and the Duckbear|100|N
-54|The Dominion of Kings|100|N
+53|The Four Sisters and the Duckbear|100|Y
+54|The Dominion of Kings|100|Y
 65|The Defense of Consolas|200|N
 72|Repairing the Clocktower|100|N
 74|Watchtower|100|N
 78|Buying Inventory|100|N
 79|Discounted Inventory|50|N
 
-Current XP = 350
+Current XP = 550
