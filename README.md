@@ -18,9 +18,9 @@ Page No. | Challenge | XP | Done?
 53|The Four Sisters and the Duckbear|100|Y
 54|The Dominion of Kings|100|Y
 65|The Defense of Consolas|200|N
-72|Repairing the Clocktower|100|N
+72|Repairing the Clocktower|100|Y
 74|Watchtower|100|N
 78|Buying Inventory|100|N
 79|Discounted Inventory|50|N
 
-Current XP = 550
+Current XP = 650
