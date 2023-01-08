@@ -8,4 +8,4 @@ target_row = input("Target row? ")
 target_column = input("Target column? ")
 
 # changes the text color
-print('\033[5;35;40m CHEESY \033[0;0m')
+print('\033[5;33;40mCHEESY\033[0;0m')
